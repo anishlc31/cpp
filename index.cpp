@@ -1,10 +1,1 @@
-#include<iostream>
-using namespace std;
-int main(){
-int a , l , b;
-cout << "Enter l and b ";
-cin>>l>>b;
-a=l*b;
-cout<<"area="<<a;
- 
-}
+// Hello i am learning cpp and trying to learn github also
